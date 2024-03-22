@@ -6,8 +6,13 @@ body {
 
 h1 {
         text-align: center;
+        text-decoration: underline;
 }
 
+h3{
+        text-decoration: underline;
+        background-color: rgba(51, 51, 51, 0.8);
+}
 hr {
         width: 80%;
 }
@@ -38,6 +43,7 @@ li a {
 
 li a:hover {
         background-color: #1D597B;
+        font-weight: bold;
 }
 
 .cikk {
